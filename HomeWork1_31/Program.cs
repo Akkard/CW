@@ -16,10 +16,11 @@ namespace ModuleControl
            public string CityName;
            public int CityPopulation;
            public int CityArea;
-           
+           public double Density;
         }
         static void Main(string[] args)
         {
+           
             //ввод данных Kharkiv=1431000,350;Kiev=2804000,839;Las Vegas=603400,352
             string InputData = Console.ReadLine();
             int CityNum = 0;
@@ -68,7 +69,8 @@ namespace ModuleControl
                 }
 
                 variable += InputData[i];
-                
+              
+
             }
 
             for (int c = 0; c < 3; c++)
@@ -90,9 +92,20 @@ namespace ModuleControl
                     MaxPopulation = city[k].CityPopulation;
                 }
             }
+            for (int k = 0; k <city.Length; k++)
+            {                
+                   city[k].Density = (double)city[k].CityPopulation / (double)city[k].CityArea;          
+            }
 
             Console.WriteLine("MaxPopulation= " + MaxPopulation);
             Console.WriteLine("LongestCityName= " + MaxName);
+            
+            for (int d = 0; d <city.Length; d++)
+            {
+                Console.WriteLine("Density:");
+                Console.WriteLine(city[d].Density);
+            }
+
         }
     }
 }
