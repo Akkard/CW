@@ -1,0 +1,6 @@
+E:\VS\HomeWork1_31\HomeWork1_31\bin\Debug\HomeWork1_31.exe.config
+E:\VS\HomeWork1_31\HomeWork1_31\bin\Debug\HomeWork1_31.exe
+E:\VS\HomeWork1_31\HomeWork1_31\bin\Debug\HomeWork1_31.pdb
+E:\VS\HomeWork1_31\HomeWork1_31\obj\Debug\HomeWork1_31.csprojResolveAssemblyReference.cache
+E:\VS\HomeWork1_31\HomeWork1_31\obj\Debug\HomeWork1_31.exe
+E:\VS\HomeWork1_31\HomeWork1_31\obj\Debug\HomeWork1_31.pdb
