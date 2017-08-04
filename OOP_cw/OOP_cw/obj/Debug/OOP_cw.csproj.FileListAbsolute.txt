@@ -1,0 +1,6 @@
+D:\C# Kovalenko\OOP_cw\OOP_cw\bin\Debug\OOP_cw.exe.config
+D:\C# Kovalenko\OOP_cw\OOP_cw\bin\Debug\OOP_cw.exe
+D:\C# Kovalenko\OOP_cw\OOP_cw\bin\Debug\OOP_cw.pdb
+D:\C# Kovalenko\OOP_cw\OOP_cw\obj\Debug\OOP_cw.csprojResolveAssemblyReference.cache
+D:\C# Kovalenko\OOP_cw\OOP_cw\obj\Debug\OOP_cw.exe
+D:\C# Kovalenko\OOP_cw\OOP_cw\obj\Debug\OOP_cw.pdb
